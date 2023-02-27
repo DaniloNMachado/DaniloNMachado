@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**DaniloNMachado/DaniloNMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Eaí? Tudo bem? Sou o Danilo! 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
