@@ -1,6 +1,9 @@
 ### Eaí? Tudo bem? Sou o Danilo! 👋
-## 💫 About Me:
-🤝 I'm looking for help with HTML, CSS and Javascript;<br>🌱 I'm currently learning Full Stack Software Development;<br>💬 Ask me about my progress;<br>⚡ Fun fact is that I've worked in several areas. From military to nutritionist.
+
+## 💫 Sobre mim:
+🤝 Em busca de conhecimento em HTML, CSS e Javascript;<br>
+🌱 Atualmente cursando Desenvolvimento de Software Full Stack;<br>
+⚡ Um fato interessante é que já trabalhei em diversas áreas. De militar a nutricionista.
 
 ## 💻 Tech Stack:
 <div style="display: inline_block"><br>
@@ -11,7 +14,7 @@
 <img align="center" alt="Dan-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
-## 🌐 Socials:
+## 🌐 Redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danilo-nogueira-machado/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/595436332466176002)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@dev.danmachado) 
