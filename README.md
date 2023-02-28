@@ -22,8 +22,9 @@
 
 ## 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloNMachado&count_private=true&theme=midnight-purple)
-![](https://github-readme-streak-stats.herokuapp.com/?user=DaniloNMachado&theme=dark&hide_border=false&theme=midnight-purple)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloNMachado&langs_count=8&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=DaniloNMachado&theme=dark&hide_border=false&theme=midnight-purple)<br/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DaniloNMachado&icon=0&color=0)](https://visitcount.itsvg.in)
