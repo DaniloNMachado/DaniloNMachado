@@ -2,7 +2,7 @@
 
 ## 💫 Sobre mim:
 🤝 Em busca de conhecimento em HTML, CSS e Javascript;<br>
-🌱 Atualmente cursando Desenvolvimento de Software Full Stack;<br>
+🌱 Atualmente buscando conhecimentos sobre programação;<br>
 ⚡ Um fato interessante é que já trabalhei em diversas áreas. De militar a nutricionista.
 
 ## 💻 Tech Stack:
