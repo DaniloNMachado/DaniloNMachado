@@ -1,30 +1,30 @@
-### Eaí? Tudo bem? Sou o Danilo! 👋
+# Danilo Nogueira Machado! 👋
 
 ## 💫 Sobre mim:
-🤝 Em busca de conhecimento em HTML, CSS e Javascript;<br>
-🌱 Atualmente buscando conhecimentos sobre programação;<br>
-⚡ Um fato interessante é que já trabalhei em diversas áreas. De militar a nutricionista.
+🤝 Em busca de conhecimento em C#, Unity;<br>
+🌱 Atualmente buscando conhecimentos sobre Análise e Desenvolvimento de Sistemas;<br>
+⚡ Um fato interessante é que já trabalhei em diversas áreas. De militar a nutricionista. Hoje, busco a troca de área para técnologia.
 
-## 💻 Tech Stack:
-<div style="display: inline_block"><br>
-<img align="center" alt="Dan-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="center" alt="Dan-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="Dan-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" alt="Dan-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="Dan-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</div>
+## Contatos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-nogueira-machado/) 
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/@DaniloMachado1)
 
-## 🌐 Redes sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-nogueira-machado/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/595436332466176002)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@dev.danmachado) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCiDrAa5kjcXu-PyD-umkDWw)
+## Linguagens de programação
+<img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 
-## 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloNMachado&count_private=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloNMachado&langs_count=8&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=DaniloNMachado&theme=dark&hide_border=false&theme=midnight-purple)<br/>
+## Banco de dados
+<img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 
+## Sistema Operacional
+<img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
 
----
-[![](https://visitcount.itsvg.in/api?id=DaniloNMachado&icon=0&color=0)](https://visitcount.itsvg.in)
+## Ferramentas
+<img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+## Gaming
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+## Github Status
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniloNMachado&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true) 
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DaniloNMachado&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
