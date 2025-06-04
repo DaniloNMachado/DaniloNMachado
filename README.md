@@ -1,30 +1,61 @@
-# Danilo Nogueira Machado! 👋
+# Olá, pode me chamar de Danilo! 👋
 
-## 💫 Sobre mim:
-🤝 Em busca de conhecimento em C#, Unity;<br>
-🌱 Atualmente buscando conhecimentos sobre Análise e Desenvolvimento de Sistemas;<br>
-⚡ Um fato interessante é que já trabalhei em diversas áreas. De militar a nutricionista. Hoje, busco a troca de área para técnologia.
+Sou um entusiasta de tecnologia e futuro desenvolvedor, atualmente cursando **Análise e Desenvolvimento de Sistemas** e sempre em busca de novos desafios e aprendizados no universo da programação, especialmente nas áreas de **Backend, Análise de Dados e Inteligência Artificial**. 🚀
 
-## Contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-nogueira-machado/) 
-[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/@DaniloMachado1)
+Estou em uma jornada de aprimoramento contínuo, combinando minha experiência em suporte técnico e análise com o desenvolvimento de novas habilidades em programação para construir soluções inovadoras e eficientes.
 
-## Linguagens de programação
-<img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+---
 
-## Banco de dados
-<img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+## 💡 Sobre Mim
 
-## Sistema Operacional
-<img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
+Profissional de Tecnologia da Informação com uma trajetória que inclui suporte especializado, análise de dados, gestão de chamados e automação de sistemas. Tenho paixão por resolver problemas e otimizar processos, sempre com foco na qualidade e na experiência do usuário.
 
-## Ferramentas
-<img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+Atualmente, estou direcionando minha carreira para o desenvolvimento de software, com ênfase em:
 
-## Gaming
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+* ☕ **Java**
+* ⚙️ **C**
+* ✨ **C#**
+* 🐍 **Python**
+* 💾 **Bancos de Dados como MySQL e PostgreSQL**
 
-## Github Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniloNMachado&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true) 
+Minha meta é aplicar meus conhecimentos para criar tecnologias que façam a diferença e contribuir para projetos desafiadores. Acredito que minha base em TI, somada à minha dedicação aos estudos em desenvolvimento, me prepara para agregar valor em equipes dinâmicas e inovadoras.
+
+---
+
+## 🛠️ Habilidades & Ferramentas
+
+Aqui estão algumas das tecnologias e competências que venho desenvolvendo e utilizando:
+
+* **Linguagens de Programação:** Java, Python, C, C#
+* **Bancos de Dados:** MySQL, PostgreSQL
+* **Inteligência Artificial:** Conceitos e Aplicações, Microsoft Copilot
+* **Análise de Dados:** Ferramentas e técnicas para extração e interpretação de dados
+* **Suporte Técnico:** Diagnóstico e solução de problemas, atendimento ao cliente
+* **Gestão de Chamados:** Documentação e resolução via telefone, remoto e presencial
+* **Outras Competências:** Oratória, Automação de Sistemas, Integração de Tecnologias, Treinamento de Usuários
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniloNMachado&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DaniloNMachado&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+---
+
+## 🌱 O Que Estou Aprendendo & Próximos Passos
+
+* Aprofundando meus conhecimentos em desenvolvimento Backend com Java e Python, incluindo a integração com bancos de dados como MySQL e PostgreSQL.
+* Explorando bibliotecas e frameworks para Análise de Dados e IA.
+* Desenvolvendo meus primeiros projetos práticos para aplicar o que estou aprendendo (fique de olho nos meus repositórios!).
+
+---
+
+## 📫 Como me Encontrar
+
+* 🔗 **LinkedIn:** [Danilo Nogueira Machado](https://www.linkedin.com/in/danilo-nogueira-machado)
+
+Sinta-se à vontade para entrar em contato! Estou aberto a oportunidades, colaborações e um bom papo sobre tecnologia. 😄
+
+---
